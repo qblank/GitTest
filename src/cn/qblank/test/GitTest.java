@@ -9,6 +9,6 @@ public class GitTest {
 		System.out.println("evan_qb");
 		System.out.println("ej");
 		System.out.println("evan_qb第三次提交");
-		System.out.println("ej第三次提交")
+		System.out.println("ej第三次提交");
 	}
 }
