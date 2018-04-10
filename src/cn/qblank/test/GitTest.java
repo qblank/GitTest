@@ -11,5 +11,6 @@ public class GitTest {
 		System.out.println("evan_qb第三次提交");
 		System.out.println("ej第三次提交");
 		System.out.println("同步到远程");
+		System.out.println("再次同步");
 	}
 }
